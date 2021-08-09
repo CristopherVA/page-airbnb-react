@@ -1,3 +1,14 @@
+# Screenshots the page
+
+![Alt text](src/assets/img/Page.png)
+
+# Execute the next comand by to run the server
+
+```
+npm run serve
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
